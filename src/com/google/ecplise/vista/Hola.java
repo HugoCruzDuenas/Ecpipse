@@ -6,7 +6,7 @@ public class Hola {
 		System.out.println("Hola Mundo");
 
 		System.out.println("primer Cambio");
-		
+		System.out.println("primer Cambio");System.out.println("primer Cambio");
 	}
 
 }
